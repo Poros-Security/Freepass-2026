@@ -22,20 +22,24 @@ Kegagalan untuk menuruti peraturan diatas akan ada konsekuensi.
 
 ## 📚 Reference
 Biasakan diri dengan platform tersebut. Cari referensi mengenai istilah berikut,
-    - Wargames
-    - CTF in Cyber Security
-    - Jeopardy CTF
-    - CTF Documentation
-    - CTF Write-up
+- [PicoCTF](https://play.picoctf.org/)
+- [Wargames](https://overthewire.org/wargames/)
+- CTF in Cyber Security
+- Jeopardy CTF
+- CTF Documentation
+- CTF Write-up ([contoh Write-Up]())
 
 Pelajari dasar-dasar dari materi di kategori berikut,
-	- Dasar Logika
-	- Digital Forensics
-    - Steganografi
-	- Kriptografi
-	- Reverse Engineering
-	- Web Exploitation
-	- Binary Exploitation
+- Dasar Logika
+- Digital Forensics
+- Steganografi
+- Kriptografi
+- Reverse Engineering
+- Web Exploitation
+- Binary Exploitation
+
+## 👏 Bonus Points
+Dapatkan bonus poin dengan membuat write-up yang komprehensif, mudah dipahami, dan sesuai dengan challenge yang diselesaikan.
 
 ## ⚠️ Attention
 > Pastikan mengerjakan soal dengan sungguh-sungguh, catat dokumentasi penyelesaian dalam satu dokumen untuk setiap soal yang berhasil maupun belum selesai dikerjakan.
@@ -45,6 +49,7 @@ Pelajari dasar-dasar dari materi di kategori berikut,
 > Challengee diperbolehkan untuk mencari di internet untuk referensi solving
 
 > Jadwal tepatnya wawancara akan diberitahukan setelah mengumpulkan Writeup dan memilih tanggal wawancara
+
 
 ## ⌛ Deadline
  - Start: xx Februari 2026, 20:00
