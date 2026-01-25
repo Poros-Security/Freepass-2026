@@ -1,6 +1,6 @@
 # 🚩 Poros Security Freepass 2026 🚩
 
-
+![But Why?](./penguin.jpg)
 
 ## 📝 Task
 1. Gunakan VPN UB jika mengakses platform CTF tanpa berhubung dengan WIFI-UBx, tata cara instalasi VPN UB sebagai [berikut](https://bits.ub.ac.id/katalog-layanan/layanan-komunikasi/vpn-ub/)
