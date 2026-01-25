@@ -50,7 +50,7 @@ Pelajari dasar-dasar dari materi di kategori berikut,
  - Start: xx Februari 2026, 20:00
  - Scoreboard Freeze: xx Februari 2026, 18:00 
  - End of Writeup Submission: xx Februari 2026, 20:00
- 
+
 ## 🤙 Contact
 Contact kami jika ada kendala.
 | Nama  | Contact                             |
