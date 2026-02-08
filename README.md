@@ -8,16 +8,16 @@
 3. Kerjakan sebanyak mungkin challenge CTF yang diberikan.
 4. Buatlah Writeup dengan ketentuan sebagai berikut:
 	- Format `.pdf`
-	- Nama berkas sebagai berikut: `Freepass POROS Security - Username CTF - Nama Lengkap`
+	- Nama berkas sebagai berikut: `Freepass POROS Security - Username CTF - Nama Lengkap.pdf`
 	- Cantumkan nama lengkap, NIM, prodi, serta username CTF pada Writeup
 	- Jelaskan secara jelas dan lengkap langkah-langkah dan script/program yang anda gunakan untuk menyelsesaikan challange-challenge yang diberikan.
-	- Tidak diperbolehkan untuk hanya memberikan script. Peserta tidak akan diwawancarai apabila hanya memberikan script.
+	- Tidak diperbolehkan untuk hanya memberikan script. Peserta **tidak akan diwawancarai** apabila hanya memberikan script.
 5. Adapun beberapa peraturan pengerjaan free pass:
     - Dilarang untuk melakukan Brute Force terhadap flag submission. 
     - Tidak boleh mengirim request terlalu banyak terhadap server atau melakukan eksploitasi pada platform CTF.
     - Penggunaan alat automasi seperti **John Hammond's Katana**, **Nmap**, **Metasploit**, **Sqlmap**, dan semacamnya tidak diperbolehkan.
 Kegagalan untuk menuruti peraturan diatas akan ada konsekuensi.
-6. Kumpulkan Writeup selambat lambatnya 18 Februari 2026 pukul 20.00 ke Google forms [berikut](https://docs.google.com/forms/xxxx).
+6. Kumpulkan Writeup selambat lambatnya 18 Februari 2026 pukul 19:00 ke Google forms [berikut](https://docs.google.com/forms/xxxx).
 7. Pilih waktu dan tanggal wawancara sesuai yang tersedia di google form.
 
 ## 📚 Reference
@@ -27,7 +27,7 @@ Biasakan diri dengan platform tersebut. Cari referensi mengenai istilah berikut,
 - CTF in Cyber Security
 - Jeopardy CTF
 - CTF Documentation
-- CTF Write-up ([contoh Write-Up]())
+- CTF Write-up ([contoh Write-Up](https://github.com/abiabdillahx/ctf-writeup/blob/main/Internal/COSMOS%20UB%202024/Write-Up%20COSMOS%202024%20-%20Imagine%20Losing.pdf))
 
 Pelajari dasar-dasar dari materi di kategori berikut,
 - Dasar Logika
@@ -54,8 +54,8 @@ Dapatkan bonus poin dengan membuat write-up yang komprehensif, mudah dipahami, d
 ## ⌛ Deadline
  - Start: 11 Februari 2026, 20:00
  - Scoreboard Freeze: 16 Februari 2026, 18:00
- - End: 17 Februari 2026, 19:00 
- - End of Writeup Submission: 18 Februari 2026, 20:00
+ - End: 17 Februari 2026, 20:00 
+ - End of Writeup Submission: 18 Februari 2026, 19:00
 
 ## 🤙 Contact
 Contact kami jika ada kendala.
