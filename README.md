@@ -18,7 +18,7 @@
     - Tidak boleh mengirim request terlalu banyak terhadap server atau melakukan eksploitasi pada platform CTF.
     - Penggunaan alat automasi seperti **John Hammond's Katana**, **Nmap**, **Metasploit**, **Sqlmap**, dan semacamnya tidak diperbolehkan.
 Kegagalan untuk menuruti peraturan diatas akan ada konsekuensi.
-7. Kumpulkan Writeup selambat lambatnya 18 Februari 2026 pukul 19:00 ke Google forms [berikut](https://docs.google.com/forms/xxxx).
+7. Kumpulkan Writeup selambat lambatnya 18 Februari 2026 pukul 17:00 ke Google forms [berikut](https://docs.google.com/forms/xxxx).
 8. Pilih waktu dan tanggal wawancara sesuai yang tersedia di google form.
 
 ## 📚 Reference
@@ -53,10 +53,10 @@ Dapatkan bonus poin dengan membuat write-up yang komprehensif, mudah dipahami, d
 
 
 ## ⌛ Deadline
- - Start: 11 Februari 2026, 20:00
+ - Start: 11 Februari 2026, 17:00
  - Scoreboard Freeze: 16 Februari 2026, 18:00
- - End: 17 Februari 2026, 20:00 
- - End of Writeup Submission: 18 Februari 2026, 19:00
+ - End: 17 Februari 2026, 18:00 
+ - End of Writeup Submission: 18 Februari 2026, 17:00
 
 ## 🤙 Contact
 Contact kami jika ada kendala.
