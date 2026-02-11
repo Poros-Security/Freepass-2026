@@ -3,7 +3,7 @@
 ![But Why?](./penguin.jpg)
 
 ## 📝 Task
-1. Gunakan VPN UB jika mengakses platform CTF tanpa berhubung dengan WIFI-UBx, tata cara instalasi VPN UB sebagai [berikut](https://bits.ub.ac.id/katalog-layanan/layanan-komunikasi/vpn-ub/)
+1. Gunakan VPN UB jika mengakses beberapa challenge **web** dan **pwn** tanpa berhubung dengan WIFI-UBx, tata cara instalasi VPN UB sebagai [berikut](https://bits.ub.ac.id/katalog-layanan/layanan-komunikasi/vpn-ub/)
 2. Masuk ke server **discord** POROS agar mendapatkan update terbaru tentang Freepass ini. [Masuk ke server Discord](https://discord.gg/aSsDEa6c).
 3. Buatlah akun pada platform CTF [berikut](https://porosctf.com), gunakan email ub untuk mendaftar.
 4. Kerjakan sebanyak mungkin challenge CTF yang diberikan.
@@ -18,7 +18,7 @@
     - Tidak boleh mengirim request terlalu banyak terhadap server atau melakukan eksploitasi pada platform CTF.
     - Penggunaan alat automasi seperti **John Hammond's Katana**, **Nmap**, **Metasploit**, **Sqlmap**, dan semacamnya tidak diperbolehkan.
 Kegagalan untuk menuruti peraturan diatas akan ada konsekuensi.
-7. Kumpulkan Writeup selambat lambatnya 18 Februari 2026 pukul 17:00 ke Google forms [berikut](https://docs.google.com/forms/xxxx).
+7. Kumpulkan Writeup selambat lambatnya 18 Februari 2026 pukul 17:00 ke Google forms [berikut](https://clips.id/SubmissionFreepass2026).
 8. Pilih waktu dan tanggal wawancara sesuai yang tersedia di google form.
 
 ## 📚 Reference
