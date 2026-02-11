@@ -4,7 +4,7 @@
 
 ## 📝 Task
 1. Gunakan VPN UB jika mengakses beberapa challenge **web** dan **pwn** tanpa berhubung dengan WIFI-UBx, tata cara instalasi VPN UB sebagai [berikut](https://bits.ub.ac.id/katalog-layanan/layanan-komunikasi/vpn-ub/)
-2. Masuk ke server **discord** POROS agar mendapatkan update terbaru tentang Freepass ini. [Masuk ke server Discord](https://discord.gg/PM4jDyfm).
+2. Masuk ke server **discord** POROS agar mendapatkan update terbaru tentang Freepass ini. [Masuk ke server Discord](https://discord.gg/YxcgQSK6).
 3. Buatlah akun pada platform CTF [berikut](https://porosctf.com), gunakan email ub untuk mendaftar.
 4. Kerjakan sebanyak mungkin challenge CTF yang diberikan.
 5. Buatlah Writeup dengan ketentuan sebagai berikut:
