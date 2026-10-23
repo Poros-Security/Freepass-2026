@@ -62,6 +62,6 @@ Dapatkan bonus poin dengan membuat write-up yang komprehensif, mudah dipahami, d
 Contact kami jika ada kendala.
 | Nama  | Contact                             |
 | ----- | ----------------------------------- |
-| Abi   | [Whatsapp](https://wa.me/089618667937)    |
+| Abi   | [Whatsapp](https://wa.me/089xxxx)    |
 | Ari   | [Whatsapp](https://wa.me/081xxx)    |
 
